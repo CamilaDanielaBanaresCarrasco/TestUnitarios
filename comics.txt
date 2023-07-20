@@ -1,0 +1,56 @@
+{
+  "12345534634": {
+    "titulo": "hombre Araña",
+    "autor": "El autor",
+    "issn": "12345566",
+    "cantidad": 340
+  },
+  "12345534635": {
+    "titulo": "CHINICIIIICIIASF Modificadodsb1b",
+    "autor": "El autor2",
+    "issn": "123455662",
+    "cantidad": 340
+  },
+  "3ce227cb-c64a-46a6-9828-1e0ec2f1e1b9": {
+    "marca": "hombre Araña pico pal que lee hola holi holi"
+  },
+  "null": {
+    "titulo": "CHINICIIIICIIASF Modificadodsb1b"
+  },
+  "826e9f95-3091-44b5-94d7-ee2c6d959d5b": {
+    "titulo": "El intrepido hombre araña",
+    "autor": "Stan Lee",
+    "issn": "212124124124",
+    "cantidad": 340
+  },
+  "15d20bdc-9a12-417f-8aaa-78e273a59319": {
+    "titulo": "El intrepido hombre araña",
+    "autor": "Stan Lee",
+    "issn": "212124124124",
+    "cantidad": 340
+  },
+  "b3850d92-b1c6-4b0c-82ce-4d574924d046": {
+    "titulo": "El intrepido hombre araña",
+    "autor": "Stan Lee",
+    "issn": "212124124124",
+    "cantidad": 340
+  },
+  "79af031e-8297-4fed-87a4-7486e4929bb9": {
+    "titulo": "El intrepido hombre araña",
+    "autor": "Stan Lee",
+    "issn": "212124124124",
+    "cantidad": 340
+  },
+  "67cbac04-70e3-464c-9167-22697cadc111": {
+    "titulo": "El intrepido hombre araña",
+    "autor": "Stan Lee",
+    "issn": "212124124124",
+    "cantidad": 340
+  },
+  "d56f381d-a959-45e7-803c-ef28a1476968": {
+    "titulo": "El intrepido hombre araña",
+    "autor": "Stan Lee",
+    "issn": "212124124124",
+    "cantidad": 340
+  }
+}
